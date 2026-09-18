@@ -1,0 +1,6 @@
+{
+  "name": "AI Website Builder",
+  "description": "Generate complete, interactive websites with live preview, responsive testing, and code editing from natural language prompts.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
